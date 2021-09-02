@@ -4701,4 +4701,5 @@
     <string name="ShowCaption">Show caption</string>
     <string name="HideCaption">Hide caption</string>
     <string name="TapForForwardingOptions">Tap here for forwarding options</string>
+    <string name="AutoLockImmediately">Immediately</string>
 </resources>
